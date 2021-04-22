@@ -96,6 +96,8 @@ namespace ConsoleApp26
                 RenameInFiles(dsd);
                 // 最終的な配置場所に移動
                 DirectoryMove(dsd, jpg);
+                // 作業用ﾌｧｲﾙを削除
+                File.Delete(src);
 
                 if (option != 0)
                 {
