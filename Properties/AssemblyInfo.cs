@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // アセンブリに関する一般情報は以下の属性セットをとおして制御されます。
 // アセンブリに関連付けられている情報を変更するには、
 // これらの属性値を変更してください。
-[assembly: AssemblyTitle("ConsoleApp26")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("PDF2JPG")]
+[assembly: AssemblyDescription("PDF2JPG")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("_____")]
-[assembly: AssemblyProduct("ConsoleApp26")]
+[assembly: AssemblyProduct("PDF2JPG")]
 [assembly: AssemblyCopyright("Copyright © _____ 2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
